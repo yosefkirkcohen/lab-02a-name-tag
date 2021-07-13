@@ -1,0 +1,27 @@
+.nametag {
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+     display:flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center; 
+}
+
+.the-name {
+    background-color: white;
+    font-family: cursive;
+}
+
+.hello {
+    color: white;
+    font-size: 4rem;
+    
+}
+.my-name-is {
+    color: white;
+}
+body {
+    font-size: 40px;
+}
